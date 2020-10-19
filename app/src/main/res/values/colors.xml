@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2ACEE3</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#6AE6D9</color>
+    <color name="Miblanco">#ffff</color>
+    <color name="MiNegro">#0000</color>
+    <color name="MiAzul">#2196F3</color>
+</resources>
